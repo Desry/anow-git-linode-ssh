@@ -1,0 +1,11 @@
+{
+  "codeRepository": "[DES]GITHUB_TEST_SSH",
+  "parentLoadBalancer": "LINUX_LB",
+  "serverNodeType": "LINUX",
+  "totalWeightCapacity": 50,
+  "configuration": {
+    "AgentHeartbeat": 30000
+  },
+  "customFieldValues": {
+  }
+}
