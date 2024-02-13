@@ -7,6 +7,6 @@
   "customFieldValues": {
   },
   "processingCommand": {
-    "script": ":PRINT \"<\/test>\""
+    "script": ":PRINT \"/test> change made from ANOW\""
   }
 }
