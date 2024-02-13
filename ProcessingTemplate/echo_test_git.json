@@ -8,6 +8,6 @@
   "customFieldValues": {
   },
   "processingCommand": {
-    "script": "echo 'GITHUB_TEST_SSH'"
+    "script": "echo 'GITHUB_TEST_SSH - changed from anow'"
   }
 }
