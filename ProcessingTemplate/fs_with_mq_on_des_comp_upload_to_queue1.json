@@ -19,7 +19,7 @@
     "compressionNumberOfFiles": null,
     "decompressionMethod": null,
     "decryptKey": null,
-    "directory": "C:\\Users\\desry\\src\\queue1",
+    "directory": "C:\Users\desry\src\queue1",
     "enableFileTransformation": true,
     "encryptKey": null,
     "eolConversionType": null,
@@ -70,6 +70,6 @@
     "useSearchReplaceWholeWords": null,
     "verifyKey": null,
     "verifySigning": true,
-    "workDirectory": "C:\\Users\\desry\\tgt\\transform\\queue1"
+    "workDirectory": "C:\Users\desry\tgt\transform\queue1"
   }
 }
