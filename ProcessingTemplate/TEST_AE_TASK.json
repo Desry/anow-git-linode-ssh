@@ -8,6 +8,6 @@
   "customFieldValues": {
   },
   "processingCommand": {
-    "script": ":Print \"/test>\" changed from github"
+    "script": ":Print \"/test>\" changed from ANOW"
   }
 }
