@@ -8,6 +8,6 @@
   "customFieldValues": {
   },
   "processingCommand": {
-    "script": "echo \"hello\"\nsleep 5"
+    "script": "echo \"hello - changed from github\"\nsleep 5"
   }
 }
